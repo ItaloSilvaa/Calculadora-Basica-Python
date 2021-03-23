@@ -1,2 +1,2 @@
 # Calculadora-Basica-Python
-Primeiro arquivo upado pro github XD
+Calculadora criada utilizando conhecimentos basicos em python
